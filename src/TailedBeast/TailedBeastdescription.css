@@ -1,0 +1,38 @@
+:root {
+    --img-size: 150px;
+  }
+
+.container{
+    display: flex;
+    align-items: space-evenly;
+    margin: 5px;
+    width: 80%;
+    background-color: aqua;
+  }
+
+  .tailed-beast, .jinchuriki{
+    flex: 1;
+    margin: 5px;
+  }
+  
+  .description{
+    flex:5;
+  }
+
+  .tailed-beast img,
+.jinchuriki img {
+  width: var(--img-size);
+  height: var(--img-size);
+}
+
+.tailed-beast h3,
+.jinchuriki h3 {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+}
+
+.description h2 {
+    text-align: center;
+    margin-top: 5px;
+  }  
