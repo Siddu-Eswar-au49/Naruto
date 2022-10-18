@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Naruto/static/css/main.cfec1b4c.css",
+    "main.js": "/Naruto/static/js/main.11dd3811.js",
+    "static/js/787.4cffa1c5.chunk.js": "/Naruto/static/js/787.4cffa1c5.chunk.js",
+    "index.html": "/Naruto/index.html",
+    "main.cfec1b4c.css.map": "/Naruto/static/css/main.cfec1b4c.css.map",
+    "main.11dd3811.js.map": "/Naruto/static/js/main.11dd3811.js.map",
+    "787.4cffa1c5.chunk.js.map": "/Naruto/static/js/787.4cffa1c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfec1b4c.css",
+    "static/js/main.11dd3811.js"
+  ]
+}
